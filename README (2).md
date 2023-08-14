@@ -48,8 +48,8 @@ Before you can start performing **C#** automation testing with **Selenium**, you
 **Step 1:** Clone the LambdaTest CSharp-NUnit-Selenium GitHub repository and navigate to the code directory as shown below:
 
 ```
-git clone https://github.com/LambdaTest/CSharp-Selenium-Sample
-cd CSharp-Selenium-Sample
+git clone https://github.com/LambdaTest/CSharp-appium-android
+cd CSharp-appium-android
 ```
 
 ### Setting up Your Authentication
